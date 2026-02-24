@@ -1,0 +1,6 @@
+nordicmind_app/
+  pubspec.yaml
+  lib/
+  android/
+  ios/
+  web/
