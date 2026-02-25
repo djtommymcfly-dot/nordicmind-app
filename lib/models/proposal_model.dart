@@ -1,0 +1,1 @@
+// proposal_model.dart content goes here

@@ -1,0 +1,1 @@
+// rating_controller.dart content goes here
